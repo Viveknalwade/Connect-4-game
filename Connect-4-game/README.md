@@ -10,6 +10,4 @@ Connect Four is a game in which the players choose a color and then take turns d
 ## Platform used: 
 ## `VS Code`
 
-## DEMO
 
-![Screenshot 2024-06-12 194936](https://github.com/Viveknalwade/Web-Projects/assets/163569779/744b7d61-2169-4799-b149-ff6aaa6b3176)
